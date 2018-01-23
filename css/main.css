@@ -1,0 +1,61 @@
+body {
+  background: #2b2b2b;
+}
+
+.splash{
+  position: relative;
+  top: 40vh;
+}
+
+.title {
+  color: #f7b617;
+  font-family: 'Dosis', sans-serif;
+  font-size:15vh;
+  text-align: center;
+}
+
+.sub-title {
+  color: #f7b617;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  display: block;
+}
+
+.map > iframe {
+height: 30vh;
+}
+
+.map{
+  width: 80%;
+}
+
+input {
+margin: auto;
+width: 100%;
+}
+
+
+.images{
+  position: relative;
+  margin: auto;
+}
+
+.images > a > img {
+  display: inline-block;
+  width: 45vw;
+  height: 30vh;
+  margin: auto;
+  cursor: pointer;
+}
+
+
+.modal-title{
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+
+.modal-sub-text{
+  color: #f7b617;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
